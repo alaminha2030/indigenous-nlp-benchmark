@@ -14,3 +14,35 @@
 - **Member 2:** [Add contribution] 
 - **Member 3:** [Add contribution] 
 - **Member 4:** [Add contribution] 
+
+
+
+
+
+## Additional Contributor Notes
+
+### Contributor: ABDULAZIZ ABDULLAHI 
+- Student ID: U22/FNS/CSC/1013
+- Email: abdullahiabdulazeez1013@gmail.com
+- Date: 2026-09-02
+
+### My Contributions to This Project
+
+1. Documentation Enhancement
+   - Added code comments to improve readability
+   - Helped document the Nupe data collection process
+
+2. Quality Assurance
+   - Reviewed the final_summary.md for completeness
+   - Verified data source documentation
+
+3. Collaboration Support
+   - Assisted in coordinating team contributions
+   - Helped ensure all team members met commit requirements
+
+### Nupe Language Learning Notes
+- Nupe uses diacritics and subdot vowels (ẹ, ọ, n̄)
+- The language has unique tonal markers that affect meaning
+
+### Acknowledgment
+This work is part of the Indigenous Language AI Benchmark project for Nupe language processing.
