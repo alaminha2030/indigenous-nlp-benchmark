@@ -179,3 +179,8 @@ This project focuses on building NLP tools for the Nupe language, including:
 
 ### Acknowledgments
 This work is part of the Indigenous Language AI Benchmark project.
+## Group 02 Branch Notes
+**Branch**: `group-02-nup`
+**Languages Covered**: Nupe, Gbagyi
+**Purpose**: This branch contains Group 2's work for the Indigenous NLP Benchmark.
+
