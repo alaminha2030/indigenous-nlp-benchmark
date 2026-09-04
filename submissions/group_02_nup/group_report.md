@@ -10,6 +10,7 @@
 2. [umAR FARUK YUSUF] - [U22/FNS/CSC/1057] 
 3. [AMINA MUHAMMAD] - U22/FNS/CSC/1119
 4. [ZAKARIYA ABDULLAHI} - U22/FNS/CSC/1287
+5. Timothy Martin-Luther Slalili - U22/FNS/CSC/1224 
 
 ## Project Overview
 This project develops an Indigenous Language AI Benchmark for the Nupe language, focusing on:
