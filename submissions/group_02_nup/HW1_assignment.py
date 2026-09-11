@@ -1,6 +1,5 @@
 import re
 import math
-import json
 from collections import Counter, defaultdict
 
 
@@ -25,7 +24,7 @@ class BigramModel:
         for i in range(len(tokens) - 1):
             self.bigram_counts[(tokens[i], tokens[i + 1])] += 1
 
-        return self.bigram_counts, self.vocab_size
+        return self.bigram_counts
 
     def compute_perplexity(self, test_path):
         with open(test_path, "r", encoding="utf-8") as f:
