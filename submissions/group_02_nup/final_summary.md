@@ -53,7 +53,7 @@ This work is part of the Indigenous Language AI Benchmark project for Nupe langu
 
 **Name:** ABDULAZIZ ABDULLAHI  
 **Student ID:** U22/FNS/CSC/1013  
-**Email:** abdullahabdulaziz1013@gmail.com  
+**Email:** abdullahiabdulazeez1013@gmail.com  
 **Date:** 2026-09-02  
 
 ### My Contributions
