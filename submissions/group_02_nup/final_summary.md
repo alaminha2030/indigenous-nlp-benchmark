@@ -45,3 +45,37 @@
 
 ### Acknowledgment
 This work is part of the Indigenous Language AI Benchmark project for Nupe language processing.
+
+
+
+
+## Additional Contributor Notes - ABDULAZIZ ABDULLAHI
+
+**Name:** ABDULAZIZ ABDULLAHI  
+**Student ID:** U22/FNS/CSC/1013  
+**Email:** abdullahabdulaziz1013@gmail.com  
+**Date:** 2026-09-02  
+
+### My Contributions
+
+1. **Documentation**
+   - Added contributor notes
+   - Helped document the Nupe data collection process
+
+2. **Quality Assurance**
+   - Reviewed project files
+   - Verified data source documentation
+
+3. **Team Collaboration**
+   - Assisted in coordinating team contributions
+   - Helped ensure all team members met commit requirements
+
+### Nupe Language Notes
+- Nupe uses diacritics: ẹ, ọ, n̄
+- Tonal markers affect meaning
+- Common words: unami (hello), eya (yes), ba (no)
+
+
+
+**Signed:** ABDULAZIZ ABDULLAHI  
+**Date:** 2026-09-02
